@@ -7,9 +7,11 @@
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "sourcemap-codec": "^1.4.8"
   },
   "devDependencies": {
+    "@rollup/plugin-terser": "^0.3.0",
     "typescript": "3.3.3"
   },
   "scripts": {
