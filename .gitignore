@@ -131,6 +131,10 @@ dist
 node_modules
 
 
+<<<<<<< HEAD
 .DS_Store
 .vercel
 build
+=======
+.DS_Store
+>>>>>>> parent of 755674a (updated packages)
